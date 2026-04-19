@@ -1,0 +1,54 @@
+{
+  "producer_account_name": "eostribeprod",
+  "producer_public_key": "EOS8U5YKzghgWSCf8fA7CL58gNxe89EtmfZQxwe7atC56T5MVNTMY"
+  "org": {
+    "candidate_name": "Crypto Tribe",
+    "website": "https://cryptotribe.io",
+    "email": "eugene@cryptotribe.io",
+    "branding":{
+      "logo_256":"https://cryptotribe.io/images/eos-tribe-logo-square-256px.png",
+      "logo_1024":"https://cryptotribe.io/images/eos-tribe-logo-square-1024px.png",
+      "logo_svg":"https://cryptotribe.io/images/logo.svg"
+    },
+    "location": {
+      "name": "Miami,FL",
+      "country": "US",
+      "latitude": 25.7617,
+      "longitude": -80.1919
+    },
+    "social": {
+      "telegram": "@eluzgin"
+    },
+    "support": {
+     "name": "Eugene.Luzgin",
+     "email": "eugene@cryptotribe.io"
+    }
+  },
+  "nodes": [
+    {
+      "location": {
+      	"name": "Miami,FL",
+      	"country": "US",
+      	"latitude": 25.7617,
+      	"longitude": -80.1919
+      },
+      "node_type": "full",
+      "api_endpoint": "http://proton.cryptotribe.io",
+      "ssl_endpoint": "https://proton.cryptotribe.io"
+    },
+    {
+      "location": {
+        "name": "Miami,FL",
+        "country": "US",
+        "latitude": 25.7617,
+        "longitude": -80.1919
+      },
+      "node_type": "producer",
+      "p2p_endpoint": "",
+      "api_endpoint": "",
+      "bnet_endpoint": "",
+      "ssl_endpoint": ""
+    }
+  ]
+}
+
